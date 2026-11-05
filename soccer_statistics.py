@@ -49,21 +49,6 @@ def get_team_statistics(players):
         )
 
     return statistics
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 players = [
